@@ -1,0 +1,9 @@
+{
+	"name": "Clearview",
+	"description": "",
+	"version": "0.1.0",
+	"author": "pr#5446",
+	"theme": "style.css",
+	"consent": ["ext_listing"],
+	"license": "MIT"
+}
