@@ -3,7 +3,7 @@
 	"description": "",
 	"version": "0.1.0",
 	"author": "pr#5446",
-	"theme": "style.css",
+	"theme": "clearview.theme.css",
 	"consent": ["ext_listing"],
 	"license": "MIT"
 }
