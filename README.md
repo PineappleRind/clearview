@@ -15,3 +15,8 @@ The theme will show on the Theme toggler of powercord (if you installed that).
 **BetterDiscord**
 
 Put the main CSS file into the themes folder of BetterDiscord.
+
+
+
+
+*Current version: 0.1.0 (ALPHA, some parts may not function properly)*
